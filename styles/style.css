@@ -5,6 +5,7 @@ div{
     background-color: tomato;
     padding: 10px;
     height: 65px;
+    margin-bottom: 5px;
 }
 h3{
     text-align: center;
